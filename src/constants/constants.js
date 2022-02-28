@@ -9,10 +9,10 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'Re:Dead game',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['C#', 'Unity'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Started my journey', },
+  { year: 2019, text: 'Worked as a freelance developer', },
+  { year: 2020, text: 'Founded JavaScript React, Java Spring', },
+  { year: 2021, text: 'Shared my projects with the world', },
+  { year: 2022, text: 'We are going to conquer the world', },
 ];

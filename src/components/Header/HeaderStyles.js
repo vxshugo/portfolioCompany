@@ -61,6 +61,10 @@ export const NavLink = styled.a`
   }
 `;
 
+export const Span = styled.span`
+  font-size: 2.5rem;  
+`
+
 /// DropDown Contact
 export const ContactDropDown = styled.button`
   border: none;
